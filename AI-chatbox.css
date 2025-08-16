@@ -1,0 +1,19 @@
+.chatBox-container {
+    padding: 20px;
+    max-width: 400px;
+    margin: auto;
+}
+.chatbox-textarea {
+    width: 100%;
+    height: 80px;
+    padding: 10px;
+    font-size: 1rem;
+    resize: none;
+    box-sizing: border-box;
+}
+.chatbox-response {
+    margin-top: 20px;
+    background: #f0f0f0;
+    padding: 10px;
+    border-radius: 4px;
+}
